@@ -42,18 +42,18 @@ We start at the beginning of the project, which is the login page, and here the 
 
 ##  Stacks
 
-1-Html5
-2-Sass 
-3-Bootstrap v5
-4-Typescript 
-5-Angular
+-Html5
+-Sass 
+-Bootstrap v5
+-Typescript 
+-Angular
 
 ## to run project install
 
-1- bootstrap: ^5.2.3,
-2- ngx-toastr: ^16.1.0,
-3- primeng: ^15.3.0,
-4- Node v16.16.0
+- bootstrap: ^5.2.3,
+- ngx-toastr: ^16.1.0,
+- primeng: ^15.3.0,
+- Node v16.16.0
 
 ## Code scaffolding
 
