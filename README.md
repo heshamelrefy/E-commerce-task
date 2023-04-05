@@ -8,33 +8,33 @@ This project  is marketing and characterized by speed, flexibility and easy to u
   - Interceptors
 
 
--Screens modules 
+#Screens modules 
   - Login module
   - Product list module
   - Shopping cart module
   - Checkout module
   - Success module
 
-- Shared modules 
+  #Shared modules 
   - Product Card
   
 
-- Services 
+ # Services 
   - Auth Service
   - ProductList Service
   - Auth Guard
 
--Pipes 
+#Pipes 
   - Category pipe
   - Product Name pipe
 
 
-- Interfaces 
+#Interfaces 
   - IProduct
   - IUser
 
 
-- routes.ts
+#routes.ts
 
 ## Project cycle Description 
 
