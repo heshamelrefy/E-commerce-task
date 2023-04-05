@@ -1,9 +1,12 @@
 # E-Commerce-App
 
 This project  is marketing and characterized by speed, flexibility and easy to use.
+Get products form api `https://fakestoreapi.com/products`
+Add products selected to sessionStorage. 
+
 
 ## Project modules,components,interfaces,Guard,customPipe,services and files.ts
-#Core modules 
+# Core modules 
   - NavBar
   - Interceptors
 
