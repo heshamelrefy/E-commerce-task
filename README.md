@@ -3,39 +3,39 @@
 This project  is marketing and characterized by speed, flexibility and easy to use.
 
 ## Project modules,components,interfaces,Guard,customPipe,services and files.ts
-1-Core modules [
-  1- NavBar
-  2- Interceptors
+-Core modules [
+  - NavBar
+  - Interceptors
 ] 
 
-2-Screens modules [
-  1- Login module
-  2- Product list module
-  3- Shopping cart module
-  4- Checkout module
-  5- Success module
+-Screens modules [
+  - Login module
+  - Product list module
+  - Shopping cart module
+  - Checkout module
+  - Success module
 ]
-3- Shared modules [
-  1- Product Card
+- Shared modules [
+  - Product Card
   
 ]
-4- Services [
-  1- Auth Service
-  2- ProductList Service
-  3- Auth Guard
+- Services [
+  - Auth Service
+  - ProductList Service
+  - Auth Guard
 ]
 
-5-Pipes [
-  1- Category pipe
-  2- Product Name pipe
+-Pipes [
+  - Category pipe
+  - Product Name pipe
 ]
 
-6- Interfaces [
-  1- IProduct
-  2- IUser
+- Interfaces [
+  - IProduct
+  - IUser
 ]
 
-7- routes.ts
+- routes.ts
 
 ## Project cycle Description 
 
